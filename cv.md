@@ -31,6 +31,28 @@ function toWeirdCase(string){
             ).join('')).join(' ');
 }
 ```
-
-  
+#
+## __Experience__
+ - Senior Siebel CRM Developer at Siblion\
+December 2011 - Present (10 years 2 months)
+ - Siebel CRM Software Tester at MTS Group\
+May 2009 - November 2011 (2 years 7 months)
+#
+## __Education__ 
+### __University:__ Lomonosov Moscow State University (MSU) 
+Specialist, Faculty of Mechanics and Mathematics
+### __Certification:__
+ - [Siebel 8 Consultant Certified Expert](https://www.credly.com/badges/2ea81140-6eff-41d5-a288-59131c97d6e8)
+ - [Oracle Database SQL Certified Associate](https://www.youracclaim.com/badges/ff263484-f136-4f1c-9e38-548999f67bf8)
+ - [Oracle Business Intelligence Foundation Suite 11g Certified Implementation Specialist](https://www.credly.com/badges/58a9f7c4-398e-4762-be7a-7e415395e121)
+### __Courses:__
+ - [JS/FE Pre-School 2022 (JavaScript)](https://app.rs.school/certificate/idc45fb0)
+ - [Поиск структуры в данных](https://www.coursera.org/account/accomplishments/verify/ET2UFKYJLVRV)
+ - [Обучение на размеченных данных](https://www.coursera.org/account/accomplishments/verify/N8BBJVTU3BKV)
+ - [Математика и Python для анализа данных](https://www.coursera.org/account/accomplishments/verify/UL47D6K2MK5U)
+ - [Программирование на Python](https://stepik.org/certificate/c1be12f592cbeb139bdf011ee9c4e5ce9ab14e83.pdf)
+#
+## __Languages__
+ - English: __A1__ 
+ - Russian: __Native__
 
